@@ -1,6 +1,6 @@
 ### Seja muito bem-vindo ao meu perfil 👋💜
 
-Estudando na [Alura](https://www.alura.com.br/) e apromorando no ✨ _**FRONT-END**_ ✨
+Tenho 17 anos e estou atualmente estou estudando na [Alura](https://www.alura.com.br/) e apromorando no ✨ _**FRONT-END**_ ✨
 
 - HTML
 - CSS
