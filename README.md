@@ -5,6 +5,7 @@ Tenho 17 anos e estou atualmente estou estudando na [Alura](https://www.alura.co
 - HTML
 - CSS
 - JavaScript
+![](https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
