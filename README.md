@@ -7,7 +7,7 @@
 
 <div align="center">
   
-[![gabrielmaia7g](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmaia7g&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![gabrielmaia7g](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmaia7g&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
 
