@@ -14,7 +14,7 @@
 <div style="display: flex">
   
 ## Habilidades em aprendizado
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,java,cs,dotnet)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,java,cs,dotnet)](https://skillicons.dev)
 
 ## Ferramentas
 [![My Skills](https://skillicons.dev/icons?i=vscode,figma,visualstudio,idea,postman)](https://skillicons.dev)
