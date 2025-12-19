@@ -1,6 +1,6 @@
 ### Oi, meu nome é Gabriel!👋💜
 
-<p>Tenho 18 anos, estou no 3º ano de Desenvolvimento de Sistemas no Colégio Técnico de Limeira. Além das aulas, gosto de me dedicar a projetos pessoais, como princialmente projetos web e de design. Estou sempre buscando desafios e oportunidades para aprimorar minhas habilidades e acredito que a prática é fundamental para aprender e crescer como programador.</p>
+<p>Formado no curso técnico Desenvolvimento de Sistemas no Colégio Técnico de Limeira. Além das aulas, gosto de me dedicar a projetos pessoais, como princialmente projetos web e de design. Estou sempre buscando desafios e oportunidades para aprimorar minhas habilidades e acredito que a prática é fundamental para aprender e crescer como programador.</p>
 
 **Entre em contato:**
 [![Gmail Badge](https://img.shields.io/badge/-gabrielmaia7g@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gabrielmaia7g@gmail.com)](mailto:gabrielmaia7g@gmail.com)
